@@ -5,7 +5,7 @@
 We'll introduce components, explain why they're important, and look at a few examples.
 
 ## Objectives
-1. Understand React components
+1. Understand React Compenentss
 2. Create a React component by extending the `React.Component` class
 3. Re-use that component in a parent component
 
